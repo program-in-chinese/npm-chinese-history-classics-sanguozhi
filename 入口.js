@@ -42,5 +42,3 @@ exports.吴书目录 = function() {
 exports.吴书按卷内容 = function() {
   return 吴书;
 }
-
-//console.log(魏书.内容[魏书.目录[0]].join("\n\n"))

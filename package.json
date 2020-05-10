@@ -1,6 +1,6 @@
 {
   "name": "chinese-history-classics-sanguozhi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "三国志全本: 魏书, 蜀书, 吴书",
   "main": "入口.js",
   "directories": {
